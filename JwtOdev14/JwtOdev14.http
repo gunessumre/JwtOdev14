@@ -1,0 +1,6 @@
+@JwtOdev14_HostAddress = http://localhost:5188
+
+GET {{JwtOdev14_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
